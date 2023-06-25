@@ -19,3 +19,8 @@ The project is deployed on AWS by implementing CodePipeline and Elasticbeanstalk
 
 <img src="https://github.com/redknight648/heart-prediction-mlops/assets/97392797/cc76348b-2782-445b-a978-5ff24a49f4ed" width="900px" height="550px"/>
 
+To run the application on local system,follow these steps
+```
+1. docker build -t heart-mlops .
+2. docker run -p 3000:5000 heart-mlops
+```
