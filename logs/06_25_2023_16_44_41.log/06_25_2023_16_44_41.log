@@ -1,0 +1,5 @@
+[ 2023-06-25 16:44:41,165 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-25 16:44:41,181 ] 187 werkzeug - INFO -  * Debugger PIN: 150-512-496
+[ 2023-06-25 16:44:48,278 ] 187 werkzeug - INFO - 127.0.0.1 - - [25/Jun/2023 16:44:48] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-06-25 16:45:18,857 ] 187 werkzeug - INFO - 127.0.0.1 - - [25/Jun/2023 16:45:18] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-06-25 16:49:24,439 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\Pooja\\Downloads\\heart_mlops\\Stroke_prediction\\src\\components\\model_trainer.py', reloading
