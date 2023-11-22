@@ -18,8 +18,7 @@ def get_requirements(file_path:str)->List[str]:
 setup(
 name='stroke_prediction',
 version='0.0.1',
-author='Samiksha',
-author_email='samikshaa.mehtaa@gmail.com',
+author='Pooja',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
 
